@@ -15,7 +15,7 @@
    "ConfirmationID": "ILOGKCDDV74NT0D",
    "RecordsFound": "1"
   },
-  "OLifE": {"Party": {"@id": "Party_0","PartyTypeCode": {"@tc": "1","text": "OLI_PT_PERSON"},"PartySysKey": {"@SystemCode": "CIF",#text": "44BK05RY3H7LH2ORXXXX"},
+  "OLifE": {"Party": {"@id": "Party_0","PartyTypeCode": {"@tc": "1","#text": "OLI_PT_PERSON"},"PartySysKey": {"@SystemCode": "CIF","#text": "44BK05RY3H7LH2ORXXXX"},
     "FullName": "BOYINGTON, ELIZABETH E",
     "GovtID": "519036548",
     "GovtIDTC": {
