@@ -1,0 +1,70 @@
+{
+ "TXLifeResponse": {
+  "TransRefGUID": "4ea0662b:16008673a8c:8000",
+  "TransType": {
+   "@tc": "301",
+   "#text": "OLI_TRANS_SRCPAR"
+  },
+  "TransExeDate": "2017-11-29",
+  "TransExeTime": "10:31:11.343",
+  "TransResult": {
+   "ResultCode": {
+    "@tc": "1",
+    "#text": "Success"
+   },
+   "ConfirmationID": "ILOGKCDDV74NT0D",
+   "RecordsFound": "1"
+  },
+  "OLifE": {"Party": {"@id": "Party_0","PartyTypeCode": {"@tc": "1","#text": "OLI_PT_PERSON"},"PartySysKey": {"@SystemCode": "CIF",#text": "44BK05RY3H7LH2ORXXXX"},
+    "FullName": "BOYINGTON, ELIZABETH E",
+    "GovtID": "519036548",
+    "GovtIDTC": {
+     "@tc": "1",
+     "#text": "OLI_GOVTID_SSN"
+    },
+    "Person": {
+     "FirstName": "ELIZABETH",
+     "LastName": "BOYINGTON",
+     "Gender": {
+      "@tc": "1",
+      "#text": "Female"
+     },
+     "BirthDate": "1919-06-23"
+    },
+    "Address": {
+     "@id": "Address_0",
+     "AddressTypeCode": {
+      "@tc": "1",
+      "#text": "OLI_ADTYPE_HOME"
+     },
+     "Line1": "73450 COUNTRY CLUB DR SPC 141",
+     "City": "PALM DESERT",
+     "AddressState": "CA",
+     "AddressStateTC": {
+      "@tc": "6",
+      "#text": "CA"
+     },
+     "Zip": "922608608"
+    },
+    "Phone": {
+     "PhoneTypeCode": {
+      "@tc": "1",
+      "#text": "OLI_PHONETYPE_HOME"
+     },
+     "DialNumber": "NOT FOUND"
+    },
+    "OLifEExtension": {
+     "@ExtensionCode": "Party",
+     "@VendorCode": "05",
+     "PartyExtension": {
+      "AXAApplicationRegisteredWith": {
+       "@SystemCode": "AXAOnline",
+       "@tc": "1009800002",
+       "#text": "Not Registered"
+      }
+     }
+    }
+   }
+  }
+ }
+}
